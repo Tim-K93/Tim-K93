@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 I recently started my journey with my bootcamp partner "neue fische" to become a frontend webdeveloper. :wink: 
 <br> 
-<br> Here´s a *small list* of all things i´m currently learning:
+Here´s a small list of all things i´m currently learning:
 <p>
 
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
