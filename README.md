@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **Tim-K93/Tim-K93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
