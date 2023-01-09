@@ -1,5 +1,3 @@
-### Hello there 👋
-
 <!--
 **Tim-K93/Tim-K93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, my name is Tim, i´m 29 yo and i welcome you to my GitHub profile. 
-<br>
-I recently started my journey with my bootcamp partner "neue fische" to become a frontend webdeveloper. :wink: 
-<br> 
+# Hi, nice seeing you here⚡ 
+<p>
+
+ ### My name is Tim, i´m 29 years old and I recently started my journey with my bootcamp partner "neue fische" to become a frontend webdeveloper. :wink: 
+
 Here´s a small list of all things i´m currently learning:
 <p>
 
